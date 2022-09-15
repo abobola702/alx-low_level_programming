@@ -1,3 +1,5 @@
+#include "main.h"
+#include <stdio.h>
 /**
  * add - adding two integers
  * @num1: first integer to be added

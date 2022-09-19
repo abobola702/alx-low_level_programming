@@ -6,7 +6,8 @@
  * Return: Absolute integer value
  */
 
-int _abs(int j)
+int _abs(int)
 {
-	return (_abs);
+	int j;
+	return (j);
 }
